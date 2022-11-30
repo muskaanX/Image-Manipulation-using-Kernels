@@ -34,6 +34,6 @@ a = readImage(r"images/landscape.jpg")
 
 b = convolve(a, kernel_blur)
 
-writeImage(b, "images/5-3.jpg")
+writeImage(b, "images/blur.jpg")
 
 print("Ready")  # You can locate the output file in the assigned folder
