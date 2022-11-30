@@ -1,6 +1,6 @@
 # Edge Detection using Kernels
 
-from images_fcp import *
+from images import *
 
 
 kernel_identity = [
