@@ -23,6 +23,6 @@ a = readImage(r"images\jett_valorant.png")
 
 b = convolve(a, kernel_edgy)
 
-writeImage(b, "images\5-2.jpg")  
+writeImage(b, "images\edgy.jpg")  
 
 print("Ready")  # You can find the output file in the assigned folder
